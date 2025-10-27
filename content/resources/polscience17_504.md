@@ -4,8 +4,6 @@ description: Details on the writing assignments for the course.
 file: /courses/17-504-ethnic-politics-i-fall-2003/34ad0ec3260347edbaab037c461147ae_polscience17_504.pdf
 file_size: 12442
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
